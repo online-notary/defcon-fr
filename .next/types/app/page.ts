@@ -1,4 +1,4 @@
-// File: C:\Users\Amy\Downloads\themeforest-DyYiKA3L-blackcats-cctv-security-react-next-js-template\blackcats pack\blackcats\app\page.js
+// File: C:\Users\Amy\source\repos\defcon-fr\app\page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
