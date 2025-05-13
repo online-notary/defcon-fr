@@ -14354,7 +14354,7 @@ select{
   cursor:pointer; 
   margin-left: 0px;
   box-shadow: none !important;
-  background-color: #7dbc26 !important;
+  background-color: #bf1e2e !important;
   border: none !important;
 }
 
@@ -17419,7 +17419,7 @@ select{
 }
 
 .rc-slider-track, .rc-slider-tracks{
-  background-color: #7dbc26 !important;
+  background-color: #bf1e2e !important;
 }
 
 .error-section.not-found{
