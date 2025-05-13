@@ -54,18 +54,18 @@ export default function Team_page() {
                             <div className="col-lg-4 col-md-6 col-sm-12 team-block">
                                 <div className="team-block-two">
                                     <div className="inner-box">
-                                        <figure className="image-box"><img src="assets/images/team/team-8.jpg" alt=""/></figure>
+                                        <figure className="image-box"><img src="assets/images/team/John-Catalina.png" alt="John-Catalina" style={{ width: '340px', height: '460px' }}/></figure>
                                         <div className="content-box">
                                             <div className="share-option">
                                                 <i className="icon-share share-icon"></i>
                                                 <ul className="share-links clearfix">
                                                     <li><Link href="/index-6"><i className="fab fa-facebook-f"></i></Link></li>
                                                     <li><Link href="/index-6"><i className="fab fa-twitter"></i></Link></li>
-                                                    <li><Link href="/index-6"><i className="fab fa-linkedin-in"></i></Link></li>
+                                                    <li><Link href="https://www.linkedin.com/company/defcon-one-security-inc./"><i className="fab fa-linkedin-in"></i></Link></li>
                                                 </ul>
                                             </div>
                                             <span className="designation">Founder</span>
-                                            <h4><Link href="/index-6">David Luponis</Link></h4>
+                                            <h4><Link href="/index-6">John Catalina</Link></h4>
                                         </div>
                                     </div>
                                 </div>
