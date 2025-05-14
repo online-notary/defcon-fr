@@ -27,7 +27,7 @@ export default function About() {
                                     </div>
                                     <div className="link"><Link href="/about">More about company<i className="fas fa-angle-right"></i></Link></div>
                                     <div className="inner-box">
-                                        <figure className="image-box"><img src="assets/images/resource/award-1.png" alt=""/></figure>
+                                        <figure className="image-box"><img src="assets/images/resource/about-1.png" alt=""/></figure>
                                         <ul className="list clearfix">
                                             <li>Committed to the highest standards</li>
                                             <li>We united around one purpose</li>

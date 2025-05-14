@@ -19,7 +19,7 @@ export default function About() {
                                         <div className="line line-4" style={{ backgroundImage: "url(assets/images/icons/line-4.png)" }}></div>
                                         <div className="circle"></div>
                                     </div>
-                                    <figure className="image"><img src="assets/images/resource/about-1.jpg" alt=""/></figure>
+                                    <figure className="image"><img src="assets/images/resource/about-1.png" alt=""/></figure>
                                     <div className="content-box">
                                         <figure className="curve-text"><img src="assets/images/icons/curve-text.png" alt=""/></figure>
                                         <div className="text"><h2>4 <span>+</span></h2></div>
