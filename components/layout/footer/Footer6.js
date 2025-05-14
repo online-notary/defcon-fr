@@ -22,7 +22,7 @@ export default function Footer6() {
                   </figure>
                   <div className="widget-content">
                     <h4>
-                      <Link href="tel:8001234567">800-123-4567</Link>
+                      <Link href="tel:8001234567">(972) 449-4130</Link>
                     </h4>
                     <span>Call for free consultation!</span>
                     <p>
